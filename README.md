@@ -71,8 +71,9 @@
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/akshat-g-98a174200" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="[https://fb.com/akshat.gupta](https://www.facebook.com/dev.gupta.5437)" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/akshat-g-98a174200" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
   <a href="https://github.com/akshu0713" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
