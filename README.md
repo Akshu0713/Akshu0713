@@ -80,4 +80,4 @@
 ---
 
 > 💼 **Portfolio:** [akshu0713.github.io/Myportfolio.github.io](https://akshu0713.github.io/Myportfolio.github.io/)  
-> 📄 **Resume:** [View Here](https://pdf.ac/19JuNf)
+> 📄 **Resume:** [View Here](https://drive.google.com/file/d/159fkqp4aDqaxnxte43gG_URjrFh0JABs/view?usp=sharing)
