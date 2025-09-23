@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akshu0713&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshu0713&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akshu0713&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshu0713&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -80,4 +80,4 @@
 ---
 
 > 💼 **Portfolio:** [akshu0713.github.io/Myportfolio.github.io](https://akshu0713.github.io/Myportfolio.github.io/)  
-> 📄 **Resume:** [View Here](https://drive.google.com/file/d/159fkqp4aDqaxnxte43gG_URjrFh0JABs/view?usp=sharing)
+> 📄 **Resume:** [View Here](https://drive.google.com/file/d/1_GmMPqZYo7Mbc8GOTazi0ySfz1egudSx/view?usp=sharing)
