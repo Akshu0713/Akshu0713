@@ -1,80 +1,173 @@
 <!-- Header GIF -->
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">, I'm Akshat Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 ML Enthusiast | 🧩 Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
+<h3 align="center">Software Engineer | Java Backend Developer | Full Stack Developer | AI Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/Akshu0713">
+    <img src="https://komarev.com/ghpvc/?username=Akshu0713&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-> I'm a developer who thrives at the intersection of technology, creativity, and problem-solving. With a solid foundation in both front-end and back-end development, I love building full-stack web apps that solve real-world problems. I’m constantly exploring new technologies and deepening my understanding of AI/ML.
+I'm a Software Engineer at TCS with experience building scalable backend systems, enterprise automation solutions, REST APIs, and AI-powered applications.
 
-- 🌍 I'm based in **India**
-- ✉️ Reach me at: [agdg1313@gmail.com](mailto:agdg1313@gmail.com)
-- 🧠 Currently learning: **Node.js**, **Django**, **DevOps Fundamentals**
-- 🔭 Working on: A **Google Search Clone**
-- 🤝 Open to: Collaborations in **Full Stack & AI/ML Projects**
-- ⚡ Fun fact: *I code better at 2 AM than 2 PM.*
+I enjoy solving complex engineering problems, designing scalable architectures, and building products that create real business impact.
+
+* 💼 Software Engineer @ TCS
+* 🎓 B.Tech CSE, SRM University (CGPA: 9.02/10)
+* 🌱 Currently learning System Design, Spring Boot, Microservices & Cloud Architecture
+* 🤖 Exploring LLM Applications, RAG Systems & Generative AI
+* 🎯 Targeting Backend & Full Stack SDE Roles
+* ⚡ Strong believer in writing clean, scalable and maintainable code
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+### Languages
+
+<p>
+Java • JavaScript • TypeScript • Python • C++ • SQL
 </p>
+
+### Backend
+
+<p>
+Spring Boot • Node.js • Express.js • REST APIs • Microservices • J2EE
+</p>
+
+### Frontend
+
+<p>
+React.js • Next.js • Angular • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+</p>
+
+### Databases
+
+<p>
+MySQL • MongoDB • PostgreSQL
+</p>
+
+### AI & Data
+
+<p>
+LangChain • LlamaIndex • OpenAI API • Gemini API • RAG • Prompt Engineering • Generative AI
+</p>
+
+### Cloud & DevOps
+
+<p>
+AWS • Azure • Docker • Git • GitHub • CI/CD • Postman
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Tata Consultancy Services (TCS)
+
+**Software Engineer** | Jun 2025 - Present
+
+* Developing enterprise-grade backend services and REST APIs.
+* Building automation solutions and SAP-integrated workflows.
+* Designing database-driven applications using MySQL.
+* Working on scalable backend architecture and business process automation.
+
+### Lending Buddha
+
+**Full Stack Developer Intern**
+
+* Built production-level APIs and backend services.
+* Contributed to AI-enabled application features.
+* Improved backend performance and deployment efficiency.
+
+### Reminiscent
+
+**Frontend Developer**
+
+* Developed role-based dashboards and workflow systems.
+* Improved user experience through advanced filtering and search capabilities.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🚗 [Driver Drowsiness Detection](https://github.com/yourusername/driver-drowsiness-detection)
-> Computer vision system using CNN (InceptionV3) for real-time driver alerting. Achieved 92%+ accuracy.
+### 🤖 Intelligent Knowledge Retrieval Platform (RAG + LLM)
 
-### 🧾 [Resume Builder](https://github.com/yourusername/resume-builder)
-> Live React + Tailwind app to build custom resumes with PDF export and dark/light themes.
+* Full-stack semantic search platform.
+* Context-aware document Q&A using vector embeddings.
+* Node.js + React + RAG architecture.
 
-### 🛒 [GoGrocery](https://github.com/yourusername/gogrocery)
-> MERN-based grocery delivery platform with cart, order tracking, and admin panel.
+### 👨‍💼 Employee Management System
 
-### 🩺 [Swasthify](https://github.com/yourusername/swasthify)
-> Real-time vitals tracking and doctor consultation system with a health dashboard.
+* Organizational hierarchy management platform.
+* Role-based authentication and authorization.
+* React + Node.js + MySQL.
+
+### 🩺 Swasthify
+
+* Real-time healthcare communication platform.
+* Hospital registration and patient management.
+* Scalable backend architecture.
+
+### 🚗 Driver Drowsiness Detection
+
+* CNN-based real-time monitoring system.
+* Achieved 92%+ accuracy.
+* Built using Python and Computer Vision.
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Certifications
+
+* Microsoft Certified: Azure AI Engineer Associate
+* AWS Cloud & DevOps Fundamentals
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshu0713&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=akshu0713&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshu0713&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshu0713&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshu0713&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu0713&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🔗 Let's Connect
+## 🎯 2026 Goals
+
+* Solve 300+ DSA Problems
+* Master System Design
+* Build Production-Ready AI Applications
+* Contribute to Open Source
+* Secure SDE Role at a Top Product Company
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshat-g-98a174200" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/akshat-g-98a174200">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://github.com/akshu0713" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
+  <a href="https://github.com/Akshu0713">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
 </p>
 
----
+📧 Email: [agdg1313@gmail.com](mailto:agdg1313@gmail.com)
 
-> 💼 **Portfolio:** [akshu0713.github.io/Myportfolio.github.io](https://akshu0713.github.io/Myportfolio.github.io/)  
-> 📄 **Resume:** [View Here](https://drive.google.com/file/d/1_GmMPqZYo7Mbc8GOTazi0ySfz1egudSx/view?usp=sharing)
+🌐 Portfolio: https://akshu0713.github.io/Myportfolio.github.io/
+
+💡 “Building scalable software, solving real-world problems, and continuously learning.”
