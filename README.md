@@ -79,6 +79,13 @@ AWS • Azure • Docker • Git • GitHub • CI/CD • Postman
 * Designing database-driven applications using MySQL.
 * Working on scalable backend architecture and business process automation.
 
+### Reminiscent
+
+**Frontend Developer**
+
+* Developed role-based dashboards and workflow systems.
+* Improved user experience through advanced filtering and search capabilities.
+
 ### Lending Buddha
 
 **Full Stack Developer Intern**
@@ -87,12 +94,6 @@ AWS • Azure • Docker • Git • GitHub • CI/CD • Postman
 * Contributed to AI-enabled application features.
 * Improved backend performance and deployment efficiency.
 
-### Reminiscent
-
-**Frontend Developer**
-
-* Developed role-based dashboards and workflow systems.
-* Improved user experience through advanced filtering and search capabilities.
 
 ---
 
